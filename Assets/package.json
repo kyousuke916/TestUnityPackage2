@@ -1,0 +1,12 @@
+{
+  "name": "com.kyousuke916.package.test2",
+  "version": "0.1.0",
+  "displayName": "Test2 Package",
+  "description": "Practice Package",
+  "unity": "2021.3",
+  "author": {
+    "name": "David",
+    "email": "kyousuke916@gmail.com"
+  },
+  "type": "library"
+}
