@@ -8,6 +8,6 @@ public class MyComponen2 : MonoBehaviour
 
     void Start()
     {
-        Debug.Log($"MyComponen2 Value:{Value}");
+        Debug.Log($"MyComponen2 Value:{Value} !!");
     }
 }

@@ -15,7 +15,7 @@ namespace Test2
 
         public void Execute()
         {
-            Debug.Log($"MyFunc2.Execute Value:{Value}");
+            Debug.Log($"MyFunc2.Execute Value:{Value} !!");
         }
     }
 }
